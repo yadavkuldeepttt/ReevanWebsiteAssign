@@ -2241,4 +2241,5 @@ ul.pagination li:last-child {
   .container-sm {
     max-width: 660px;
   }
-}
+.container,.container-sm{
+  max-width:1100px;
